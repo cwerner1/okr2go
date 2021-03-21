@@ -19,7 +19,7 @@
     "@angular/router": "~8.2.14",
     "@fortawesome/angular-fontawesome": "^0.4.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.20",
-    "@fortawesome/free-solid-svg-icons": "^5.10.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@ng-bootstrap/ng-bootstrap": "^5.1.0",
     "@ng-bootstrap/schematics": "^2.0.0-alpha.1",
     "bootstrap": "^4.0.0",
