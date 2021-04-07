@@ -19,3 +19,4 @@ okr2go.log
 # packr
 *-packr.go
 
+/node_modules/
